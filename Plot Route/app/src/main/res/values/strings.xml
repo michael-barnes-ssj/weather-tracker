@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Weather Tracker</string>
+    <string name="title_activity_maps">Weather Tracker</string>
+	<string name="url">http://api.worldweatheronline.com/premium/v1/weather.ashx?key=1742a9c822af485ab2e22057180406&amp;q=%1$s,%2$s&amp;cc=no&amp;mca=no&amp;num_of_days=8&amp;tp=1&amp;format=json</string>
+
+    <string name="start_location">Click on the map to place start location</string>
+    <string name="start_time">Start Time:</string>
+    <string name="travel_speed">Travel Speed:</string>
+    <string name="distance_travelled">Distance Travelled:</string>
+    <string name="arrival_time">Estimated Arrival Time:</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="rain">Rain:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="weather_image">Weather Image:</string>
+    <string name="confirm">Confirm</string>
+	<string name="exit">Exit</string>
+    <string name="date_time_title">Start Date and Time:</string>
+    <string name="forecast">Forecast</string>
+    <string name="celcius">%1$s°C</string>
+    <string name="km">%1$s kmph</string>
+	<string name="km_int">%1$d kmph</string>
+	<string name="kms_int">%1$d kms</string>
+    <string name="percent">%1$s%%</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_internet_instructions">Check your settings and restart application</string>
+    <string name="tempC">tempC</string>
+    <string name="windspeedKmph">windspeedKmph</string>
+    <string name="get_humidity">humidity</string>
+    <string name="chanceofrain">chanceofrain</string>
+    <string name="weatherDesc">weatherDesc</string>
+    <string name="weatherIconUrl">weatherIconUrl</string>
+    <string name="value">value</string>
+    <string name="json_error">json_error</string>
+    <string name="get">GET</string>
+    <string name="error_malformed">Error_Malformed</string>
+    <string name="error_io">Error_IO</string>
+    <string name="error_illegalstate">Error_IllegalState</string>
+    <string name="travel_speed_key">Travel Speed</string>
+    <string name="calendar">Calendar</string>
+    <string name="number_format">"00"</string>
+	<string name="minutes">":00"</string>
+    <string name="data">data</string>
+    <string name="weather">weather</string>
+    <string name="hourly">hourly</string>
+    <string name="log_error">Log_Error</string>
+    <string name="network_error">Error connecting to network. Check connection and try again.</string>
+    <string name="weather_error">Error connecting to weather service. Try again.</string>
+    <string name="trip_error">Trip must be 7 days or less.</string>
+    <string name="format_string">HH:mm dd-MM-yy</string>
+    <string name="marker_limit_reached">Marker limit reached</string>
+    <string name="icon_error">Icon_Error</string>
+    <string name="start_time_tag">Start Time</string>
+
+	
+	
+
+
+</resources>
